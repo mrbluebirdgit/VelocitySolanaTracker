@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="VELOCITY">
+  <rect width="32" height="32" rx="6" fill="#0b0c0e"/>
+  <path fill="#7ee7c4" d="M2 4h8L13 22 16 4h8L14 28h-4L2 4z"/>
+  <rect x="26" y="8" width="4" height="20" fill="#7ee7c4"/>
+</svg>

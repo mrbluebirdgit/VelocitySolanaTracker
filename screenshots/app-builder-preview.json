@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VELOCITY",
+      "hasCanvas": false,
+      "bodyTextLen": 2747,
+      "bodyTextHash": "5ed1938d4c5ef7634c50c0f0b984f0d67559e70720183c27cc620c6c7a4cbe16",
+      "bodyTextPrefix": "SOLANA RADAR VELOCITY Live SOL $102.27 14 fresh 7:53:15 AM DONAL",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VELOCITY",
+      "hasCanvas": false,
+      "bodyTextLen": 3479,
+      "bodyTextHash": "944af82164b36599815b7c5295acabb8f7d09d167a90ec43725be1ace3127941",
+      "bodyTextPrefix": "SOLANA RADAR VELOCITY 7:53:16 AM DONALDKAI·1m BTC·1m ALIBABA·1m ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

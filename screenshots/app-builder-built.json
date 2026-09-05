@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "VELOCITY",
+      "hasCanvas": false,
+      "bodyTextLen": 2644,
+      "bodyTextHash": "225189d176a3e92ccb55514197a46d927d28fa05c91d56192df07c16f3df2ffb",
+      "bodyTextPrefix": "SOLANA RADAR VELOCITY Live SOL $102.27 14 fresh — ISYT·1m AJJG·2",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "VELOCITY",
+      "hasCanvas": false,
+      "bodyTextLen": 3378,
+      "bodyTextHash": "9895f684f4fe93ac8514c46fe093917387129dde02b9e262f5dd1e242828c1a2",
+      "bodyTextPrefix": "SOLANA RADAR VELOCITY — ISYT·2m AJJG·2m 3PVM·2m 729H·2m F6QQ·2m ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
